@@ -1,8 +1,33 @@
-Vladimir
-Contact Information
-Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
-Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
-Code Examples
-Work Experience (Junior Devs can list educational projects with the skills used and links to the source code)
-Education (including completed courses and training)
-English Language (your English proficiency level, and if you had language practice, describe it)
+# Резюме
+
+##### Владимир Гриненко
+
+##### Контактная информация: email - lex3x15@gmail.com
+
+##### О себе:
+
+Больше четырех лет работаю QA Engineer, в свободное время люблю кататься на сноуборде, велосипеде, играть в настольные игры, играть на гитаре.
+
+##### Опыт работы с инструментами:
+
+DevTools, Postman, Jira, Confluence, Zephyr, Git, PyCharm, Docker(start, stop, remove etc), DataGrip, Jaeger
+
+##### Знания языков программирования:
+
+Java, С#, Python, JavaScript(Beginer)
+
+##### Пример кода есть по ссылке https://github.com/vlgrinenko/examples
+
+##### Опыт работы:
+
+- T1 Consulting (Август 2019 - Июнь 2020)
+- BIMeister (Июнь 2020 - Ноябрь 2021)
+- AliExpress (Ноябрь 2021 - настоящее время)
+
+##### Образование:
+
+Высшее - Инженер по телекоммуникационным системам, закончил СибГУТИ
+
+##### Английский язык:
+
+A2
